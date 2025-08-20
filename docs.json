@@ -26,8 +26,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/clarity_inbox_logo.svg",
+    "dark": "/logo/clarity_inbox_logo.svg"
   },
   "navbar": {
     "links": [
