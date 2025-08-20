@@ -26,20 +26,20 @@
     ]
   },
   "logo": {
-    "light": "/logo/clarity_inbox_logo.svg",
-    "dark": "/logo/clarity_inbox_logo.svg"
+    "light": "/logo/lightlogo.svg",
+    "dark": "/logo/darklogo.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:clarity@clarityinbox.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Try for Free",
+      "href": "https://clarityinbox.com"
     }
   },
   "contextual": {
@@ -56,9 +56,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://www.linkedin.com/company/clarity-inbox/"
     }
   }
 }
