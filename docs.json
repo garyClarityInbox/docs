@@ -20,6 +20,12 @@
               "quickstart",
               "updates"
             ]
+          },
+          {
+            "group": "Core Concepts",
+            "pages": [
+              "cc"
+            ]
           }
         ]
       }
