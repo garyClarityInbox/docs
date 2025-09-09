@@ -26,6 +26,15 @@
             "pages": [
               "ccbcc"
             ]
+          },
+          {
+            "group": "Playbooks",
+            "pages": [
+              "sales",
+              "inbound",
+              "outbound",
+              "customer support"
+            ]
           }
         ]
       }
