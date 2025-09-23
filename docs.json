@@ -29,16 +29,6 @@
               "addknowledge",
               "contacthistory"
             ]
-          },
-          {
-            "group": "Playbooks",
-            "pages": [
-              "playbooks",
-              "sales",
-              "inbound",
-              "outbound",
-              "customer support"
-            ]
           }
         ]
       }
