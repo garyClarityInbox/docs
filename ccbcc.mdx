@@ -26,6 +26,19 @@ description: "Clarity can auto-CC and auto-BCC for you"
   1. Visit the [Clarity Inbox Dashboard](https://app.clarityinbox.com/dashboard) \> Guidance \> CC Rules 
   2. Clarity can also scan if the email subject line contains a keyword, and can add an email address to the BCC header.
 
+
+## Advanced Playbooks
+
+Set up CC/BCC rules for complex scenarios:
+
+- **Compliance workflows:** CC legal and BCC finance when subject contains "contract" or "NDA"
+- **VIP customer support:** CC account manager and BCC support for emails from VIP customers
+- **Family coordination:** BCC family for emails with "Moving Company" in subject
+- **Board reporting:** CC management and BCC board observers for "board update" topics
+- **Incident escalation:** CC engineering, BCC security for emails tagged "urgent" or "outage"
+
+
+
 ## Real World Use Cases
 
 ### Use Case #1: Investor Updates
@@ -49,13 +62,13 @@ description: "Clarity can auto-CC and auto-BCC for you"
 
 ![Clarity Permission Pn](/images/CC-rule.png)
 
-### Use Case #3: Executive Scheduling
+### Use Case #3: Family Coordination
 
-**Challenge:** The executive assistant often has to book meetings for leadership, but executives have busy calendars with shifting priorities.
+**Challenge:** Jordan is coordinating an upcoming move and wants to make sure their sister, Angela, is always updated on any communications about the moving company.
 
-**Solution:** Create multiple meeting links for different executives and time durations (e.g., “CEO 30-minute slot,” “CTO 15-minute technical chat,” “Founder investor call”). ClarityInbox will suggest the correct link based on the recipient or topic discussed.
+**Setup:** Create a BCC rule where any email with "Moving Company" in the subject line will automatically BCC Angela (Angela@family.com). Add a context to clarify: “Any email about the moving company, cc my sister.”
 
-**Result:** Executive assistants quickly share the appropriate calendar links in response to varied meeting requests, reducing coordination hassles and freeing up leadership for higher-impact tasks.
+**Result:** Angela automatically receives all move-related emails without Jordan having to remember to manually BCC her each time, ensuring seamless family coordination and no missed details.
 
 ![Clarity Permission Pn](/images/BCC-rule.png)
 
