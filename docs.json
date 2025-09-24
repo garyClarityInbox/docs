@@ -24,10 +24,10 @@
           {
             "group": "Setting Up",
             "pages": [
-              "meetinglink",
-              "ccbcc",
-              "contacthistory",
-              "addknowledge"
+              "meeting-link",
+              "cc-bcc",
+              "contact-history",
+              "teach-clarity"
             ]
           }
         ]
