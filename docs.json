@@ -22,10 +22,10 @@
             ]
           },
           {
-            "group": "Core Concepts",
+            "group": "Setting Up",
             "pages": [
-              "ccbcc",
               "meetinglink",
+              "ccbcc",
               "contacthistory",
               "addknowledge"
             ]
