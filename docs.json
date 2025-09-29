@@ -24,6 +24,7 @@
           {
             "group": "Setting Up",
             "pages": [
+              "signature",
               "meeting-link",
               "cc-bcc",
               "contact-history",
