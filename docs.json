@@ -37,7 +37,7 @@
           {
             "group": "Playbooks",
             "pages": [
-              "playbooks-index",
+              "playbooks",
               {
                 "group": "Sales",
                 "expanded": false,
