@@ -36,9 +36,9 @@
             "pages": [
               "playbooks-index",
               "playbooks/sales",
-              "playbooks/inbound",
               "playbooks/customer-support",
-              "playbooks/general-inbox"
+              "playbooks/marketing",
+              "playbooks/personal-admin"
             ]
           }
         ]
