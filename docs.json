@@ -34,15 +34,11 @@
           {
             "group": "Playbooks",
             "pages": [
-              "playbooks-index"
-            ],
-            "children": [
-              {
-                "group": "Sales",
-                "pages": [
-                  "playbooks/sales"
-                ]
-              }
+              "playbooks-index",
+              "playbooks/sales",
+              "playbooks/customer-support",
+              "playbooks/marketing",
+              "playbooks/personal-admin"
             ]
           }
         ]
