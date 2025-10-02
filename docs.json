@@ -40,28 +40,10 @@
               {
                 "group": "Sales",
                 "pages": [
+                  "playbooks/sales",
                   "playbooks/sales/speed-to-lead",
                   "playbooks/sales/referral-intro",
                   "playbooks/sales/renewal-reminder"
-                ]
-              },
-              {
-                "group": "Customer Support",
-                "pages": [
-                  "playbooks/customer-support",
-                  "playbooks/customer-support/routing"
-                ]
-              },
-              {
-                "group": "Marketing",
-                "pages": [
-                  "playbooks/marketing"
-                ]
-              },
-              {
-                "group": "Personal/Admin",
-                "pages": [
-                  "playbooks/personal-admin"
                 ]
               }
             ]
