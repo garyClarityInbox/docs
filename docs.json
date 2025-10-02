@@ -40,10 +40,7 @@
               {
                 "group": "Sales",
                 "pages": [
-                  "playbooks/sales",
-                  "playbooks/sales/speed-to-lead",
-                  "playbooks/sales/referral-intro",
-                  "playbooks/sales/renewal-reminder"
+                  "playbooks/sales"
                 ]
               }
             ]
