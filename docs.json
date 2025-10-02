@@ -42,7 +42,7 @@
                 "group": "Sales",
                 "expanded": false,
                 "pages": [
-                  "playbooks/sales",
+                  "playbooks/sales/overview",
                   "playbooks/sales/speed-to-lead",
                   "playbooks/sales/lead-qualification",
                   "playbooks/sales/referral"
@@ -61,7 +61,7 @@
                 "group": "Marketing",
                 "expanded": false,
                 "pages": [
-                  "playbooks/marketing",
+                  "playbooks/marketing/overview",
                   "playbooks/marketing/pr"
                 ]
               },
@@ -69,7 +69,7 @@
                 "group": "Founder's Inbox",
                 "expanded": false,
                 "pages": [
-                  "playbooks/founders-inbox",
+                  "playbooks/founders-inbox/overview",
                   "playbooks/founders-inbox/investor-intro"
                 ]
               }
