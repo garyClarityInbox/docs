@@ -32,42 +32,21 @@
             ]
           },
           {
-    "group": "Playbooks",
-    "pages": [
-      "playbooks-index"
-    ],
-    "children": [
-      {
-        "group": "Sales",
-        "pages": [
-          "playbooks/sales/speed-to-lead",
-          "playbooks/sales/referral-intro",
-          "playbooks/sales/renewal-reminder"
-        ]
-      },
-      {
-        "group": "Customer Support",
-        "pages": [
-          "playbooks/customer-support/routing",
-          "playbooks/customer-support/feedback"
-        ]
-      },
-      {
-        "group": "Marketing",
-        "pages": [
-          "playbooks/marketing/influencer-press",
-          "playbooks/marketing/product-launch"
-        ]
-      },
-      {
-        "group": "Personal/Admin",
-        "pages": [
-          "playbooks/personal-admin/email-separation",
-          "playbooks/personal-admin/calendar-autoresponder"
-        ]
-      }
-    ]
-  }
+            "group": "Playbooks",
+            "pages": [
+              "playbooks-index"
+            ],
+            "children": [
+              {
+                "group": "Sales",
+                "pages": [
+                  "playbooks/sales/speed-to-lead",
+                  "playbooks/sales/referral-intro",
+                  "playbooks/sales/renewal-reminder"
+                ]
+              }
+            ]
+          }
         ]
       }
     ]
