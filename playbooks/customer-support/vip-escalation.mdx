@@ -1,0 +1,65 @@
+---
+title: "🏆 VIP Escalation"
+description: "Instantly flag and escalate urgent VIP emails to founders and leadership. Never lose a key account."
+---
+
+> _"I want to make sure my VIP customers are happy"_
+
+### _Did you know?_
+
+VIP customers account for up to 70% of revenue at B2B startups—92% leave after poor support.
+
+---
+
+## ⚡️ How it works
+
+- **Goal:** VIP inbound communication is instantly flagged and escalated to founder/leadership immediately.
+- **Identifies existing VIP customers, detects urgency**
+- **AI labeling:** ("Exec Attention", "ACME Corp", "To Respond")
+- **Auto-drafts priority response with VIP booking link**
+- **CCs founders and leadership** (ex: [ceo@startup.com](mailto:ceo@startup.com), [head.sales@startup.com](mailto:head.sales@startup.com))
+
+## 🔮 Real Example Scenario
+
+Create automation that escalates VIP follow-ups to the leadership team.
+
+VIP customer emails:\
+_"We need this feature immediately."_
+
+ClarityInbox labels it **"Exec Attention"** and drafts:
+
+> "We can do that right away, I will set up time. CCing our CEO. [VIP Booking Link]"
+
+Filed under “ACME corp” and “Exec Attention”.
+
+## 📋 Copy and Paste This Setup
+
+1. Visit the [Clarity Inbox Dashboard](https://app.clarityinbox.com/dashboard)
+2. Create an AI Label named "Exec Attention"
+3. Copy and paste this prompt below:
+
+```c expandable
+When email is from VIP account and contains urgency 
+or urgent language ("asap", "immediate", "priority"), 
+reply instantly: "We'll prioritize this right away—here's my calendar [vip-calendar-link]." 
+CC: ceo@startup.com, head.sales@startup.com. 
+File the email under the company’s label [company label], and “Exec Attention”.
+```
+
+<Accordion title="Advanced: Slack Alerts">
+  **Alert the leadership team on Slack:**\
+  Visit Zapier, create a new Zap:
+
+  - Trigger: Gmail label "Exec Attention"
+  - Action: Send the email info to your leadership Slack channel
+</Accordion>
+
+<Accordion title="Future Enhancement">
+  Track and report "time-to-fire-response" for all high value accounts.
+</Accordion>
+
+---
+
+## Why It Matters
+
+Automated VIP escalation ensures zero delays for your highest-value relationships and prevents critical account churn. Never miss a VIP request—let the playbook handle urgent comms for you.

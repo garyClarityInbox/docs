@@ -30,6 +30,16 @@
               "contact-history",
               "teach-clarity"
             ]
+          },
+          {
+            "group": "Playbooks",
+            "pages": [
+              "playbooks-index",
+              "playbooks/sales",
+              "playbooks/customer-support",
+              "playbooks/marketing",
+              "playbooks/personal-admin"
+            ]
           }
         ]
       }
