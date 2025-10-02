@@ -53,6 +53,7 @@
                 "expanded": false,
                 "pages": [
                   "playbooks/customer-support/overview",
+                  "playbooks/customer-support/vip-escalation",
                   "playbooks/customer-support/customer-routing"
                 ]
               },
