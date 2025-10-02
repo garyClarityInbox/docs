@@ -44,9 +44,8 @@
               {
                 "group": "Sales",
                 "expanded": true,
-                "tag": "NEW",
                 "pages": [
-                  "playbooks/sales",
+                  "playbooks/sales/overview",
                   "playbooks/sales/speed-to-lead",
                   "playbooks/sales/lead-qualification",
                   "playbooks/sales/referral"
