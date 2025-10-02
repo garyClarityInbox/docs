@@ -38,17 +38,38 @@
             "group": "Playbooks",
             "pages": [
               "playbooks-index",
-              "playbooks/customer-support",
-              "playbooks/marketing",
-              "playbooks/personal-admin",
               {
                 "group": "Sales",
-                "expanded": true,
+                "expanded": false,
                 "pages": [
                   "playbooks/sales/overview",
                   "playbooks/sales/speed-to-lead",
                   "playbooks/sales/lead-qualification",
                   "playbooks/sales/referral"
+                ]
+              },
+              {
+                "group": "Customer Support",
+                "expanded": false,
+                "pages": [
+                  "playbooks/customer-support/overview",
+                  "playbooks/customer-support/customer-routing"
+                ]
+              },
+              {
+                "group": "Marketing",
+                "expanded": false,
+                "pages": [
+                  "playbooks/marketing",
+                  "playbooks/marketing/pr"
+                ]
+              },
+              {
+                "group": "Founder's Inbox",
+                "expanded": false,
+                "pages": [
+                  "playbooks/founders-inbox",
+                  "playbooks/founders-inbox/investor-intro"
                 ]
               }
             ]
