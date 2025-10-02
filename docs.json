@@ -38,18 +38,18 @@
             "group": "Playbooks",
             "pages": [
               "playbooks-index",
-              "playbooks/sales",
               "playbooks/customer-support",
               "playbooks/marketing",
               "playbooks/personal-admin",
               {
-                "group": "Editing",
-                "expanded": false,
-                "icon": "pencil",
+                "group": "Sales",
+                "expanded": true,
                 "tag": "NEW",
                 "pages": [
-                  "installation",
-                  "editor"
+                  "playbooks/sales",
+                  "playbooks/sales/speed-to-lead",
+                  "playbooks/sales/lead-qualification",
+                  "playbooks/sales/referral"
                 ]
               }
             ]
