@@ -34,17 +34,11 @@
           {
             "group": "Playbooks",
             "pages": [
-              "playbooks-index"
-            ],
-            "children": [
-              {
-                "group": "Sales",
-                "pages": [
-                  "playbooks/sales/speed-to-lead",
-                  "playbooks/sales/referral-intro",
-                  "playbooks/sales/renewal-reminder"
-                ]
-              }
+              "playbooks-index",
+              "playbooks/sales",
+              "playbooks/customer-support",
+              "playbooks/marketing",
+              "playbooks/personal-admin"
             ]
           }
         ]
