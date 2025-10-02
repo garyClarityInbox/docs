@@ -41,7 +41,17 @@
               "playbooks/sales",
               "playbooks/customer-support",
               "playbooks/marketing",
-              "playbooks/personal-admin"
+              "playbooks/personal-admin",
+              {
+                "group": "Editing",
+                "expanded": false,
+                "icon": "pencil",
+                "tag": "NEW",
+                "pages": [
+                  "installation",
+                  "editor"
+                ]
+              }
             ]
           }
         ]
