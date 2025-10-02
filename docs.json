@@ -42,7 +42,7 @@
                 "group": "Sales",
                 "expanded": false,
                 "pages": [
-                  "playbooks/sales/overview",
+                  "playbooks/sales",
                   "playbooks/sales/speed-to-lead",
                   "playbooks/sales/lead-qualification",
                   "playbooks/sales/referral"
