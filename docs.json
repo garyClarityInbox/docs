@@ -34,11 +34,36 @@
           {
             "group": "Playbooks",
             "pages": [
-              "playbooks-index",
-              "playbooks/sales",
-              "playbooks/customer-support",
-              "playbooks/marketing",
-              "playbooks/personal-admin"
+              "playbooks-index"
+            ],
+            "children": [
+              {
+                "group": "Sales",
+                "pages": [
+                  "playbooks/sales/speed-to-lead",
+                  "playbooks/sales/referral-intro",
+                  "playbooks/sales/renewal-reminder"
+                ]
+              },
+              {
+                "group": "Customer Support",
+                "pages": [
+                  "playbooks/customer-support",
+                  "playbooks/customer-support/routing"
+                ]
+              },
+              {
+                "group": "Marketing",
+                "pages": [
+                  "playbooks/marketing"
+                ]
+              },
+              {
+                "group": "Personal/Admin",
+                "pages": [
+                  "playbooks/personal-admin"
+                ]
+              }
             ]
           }
         ]
